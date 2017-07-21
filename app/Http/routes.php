@@ -128,7 +128,7 @@ Route::get('/delete2',function(){
     //Para un solo elemento
     //Post::destroy(4);
     //Para mas elementos
-    Post::destroy([4,5]);
+    Post::destroy([4,5);
 
 });
 
